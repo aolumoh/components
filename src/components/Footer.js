@@ -1,6 +1,8 @@
 function Footer() {
   return (
-    <div>Footer</div>
+    <footer className='footer'>
+      <p className="copyright">&copy; 2024 TieTheKnot Inc.</p>
+    </footer>
   );
 }
 

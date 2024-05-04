@@ -1,9 +1,9 @@
 function Gallery({ images }) {
   return (
     <section className='gallery'>
-      <div className='gallery-row'>
-        {images.map((image) => (
-          <img className='img' src={require(`../media/${image}`).default} />
+      <div className='gallery-row container'>
+        {images.map((image, index) => (
+          <img key={index} className='img' src={image} alt={`Image ${index + 1}`}/>
         ))}
       </div>
     </section>

@@ -18,10 +18,16 @@ import Banner from './components/Banner';
 import Gallery from './components/Gallery';
 import Footer from './components/Footer';
 
+import image1 from './media/wedding1.jpg';
+import image2 from './media/wedding2.jpg';
+import image3 from './media/wedding3.jpg';
+import image4 from './media/wedding4.jpg';
+import image5 from './media/wedding5.jpg';
+
 function App() {
 
   const images = [
-    'wedding1.jpg', 'wedding2.jpg', 'wedding3.jpg', 'wedding4.jpg', 'wedding5.jpg'
+    image1, image2, image3, image4, image5
   ];
 
   return (
