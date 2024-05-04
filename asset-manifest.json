@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c25d4631.css",
-    "main.js": "/static/js/main.790bac5a.js",
-    "static/media/wedding4.jpg": "/static/media/wedding4.d99cc66861265a4a5e9c.jpg",
-    "static/media/wedding3.jpg": "/static/media/wedding3.a390d5e249fd6b281b4d.jpg",
-    "static/media/wedding5.jpg": "/static/media/wedding5.6495e5833bee8c5a85fd.jpg",
-    "static/media/wedding2.jpg": "/static/media/wedding2.9f511a75df7e7f420820.jpg",
-    "static/media/wedding1.jpg": "/static/media/wedding1.fb6b9139cba686fd67a1.jpg",
-    "static/media/hand-holding.jpg": "/static/media/hand-holding.c7d39c176c7129fe1a93.jpg",
-    "index.html": "/index.html",
-    "main.c25d4631.css.map": "/static/css/main.c25d4631.css.map",
-    "main.790bac5a.js.map": "/static/js/main.790bac5a.js.map"
+    "main.css": "/component/static/css/main.d29d3dcb.css",
+    "main.js": "/component/static/js/main.8a8b1767.js",
+    "static/media/wedding4.jpg": "/component/static/media/wedding4.d99cc66861265a4a5e9c.jpg",
+    "static/media/wedding3.jpg": "/component/static/media/wedding3.a390d5e249fd6b281b4d.jpg",
+    "static/media/wedding5.jpg": "/component/static/media/wedding5.6495e5833bee8c5a85fd.jpg",
+    "static/media/wedding2.jpg": "/component/static/media/wedding2.9f511a75df7e7f420820.jpg",
+    "static/media/wedding1.jpg": "/component/static/media/wedding1.fb6b9139cba686fd67a1.jpg",
+    "static/media/hand-holding.jpg": "/component/static/media/hand-holding.c7d39c176c7129fe1a93.jpg",
+    "index.html": "/component/index.html",
+    "main.d29d3dcb.css.map": "/component/static/css/main.d29d3dcb.css.map",
+    "main.8a8b1767.js.map": "/component/static/js/main.8a8b1767.js.map"
   },
   "entrypoints": [
-    "static/css/main.c25d4631.css",
-    "static/js/main.790bac5a.js"
+    "static/css/main.d29d3dcb.css",
+    "static/js/main.8a8b1767.js"
   ]
 }
