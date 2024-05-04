@@ -3,7 +3,7 @@ function Gallery({ images }) {
     <section className='gallery'>
       <div className='gallery-row container'>
         {images.map((image, index) => (
-          <img key={index} className='img' src={image} alt={`Image ${index + 1}`}/>
+          <img key={index} className='img' src={image} alt={`${index + 1}`}/>
         ))}
       </div>
     </section>
